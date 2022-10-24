@@ -1,2 +1,2 @@
 # Store-Front
-Store Front Items
+Store Front Code submission
